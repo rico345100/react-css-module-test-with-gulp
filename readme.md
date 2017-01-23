@@ -4,9 +4,11 @@ I made this for demonstrate that babel-plugin-react-css-modules won't worked wit
 ## Run
 
 If you don't have gulp globally, you should install it globally first.
-> $ npm install -g gulp
-> $ npm install
-> $ gulp
+```bash
+$ npm install -g gulp
+$ npm install
+$ gulp
+```
 
 bundling will failed with
 
